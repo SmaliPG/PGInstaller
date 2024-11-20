@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">PGInstaller</string>
+    <string name="action_install" translatable="false">Install</string>
+</resources>
